@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TraulsenApp.Views.DeviceSelectorPage"
+             BindingContext="{Binding Main, Source={StaticResource Locator}}"
+             NavigationPage.HasNavigationBar="false"
+             BackgroundColor="#21232F">
+    <ContentPage.Content>
+        <StackLayout Orientation="Vertical" VerticalOptions="Center" >
+            <StackLayout Orientation="Horizontal" Margin="40,0,40,0">
+                <Label Text="Mac Address:" TextColor="#4AB0C0" VerticalOptions="Center"></Label>
+                <Entry Placeholder="Enter MAC address" Text="{Binding DeviceMACAddress}" TextColor="#4AB0C0"></Entry>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal" Margin="40,0,40,0">
+                <Label Text="Password:" TextColor="#4AB0C0" VerticalOptions="Center"></Label>
+                <Entry Placeholder="Enter MAC address" Text="{Binding DevicePassword}" TextColor="#4AB0C0"></Entry>
+            </StackLayout>
+            <Button Text="Connect" Clicked="ConnectToDevice" BackgroundColor="#4AB0C0" TextColor="White" Margin="40,40,40,0"></Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,61 @@
+Function=SystemNative_ConvertErrorPlatformToPal
+	/Users/rrod/Projects/TraulsenApp/TraulsenApp.iOS/obj/iPhone/Debug/device-builds/iphone9.1-13.3/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ConvertErrorPalToPlatform
+	/Users/rrod/Projects/TraulsenApp/TraulsenApp.iOS/obj/iPhone/Debug/device-builds/iphone9.1-13.3/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_StrErrorR
+	/Users/rrod/Projects/TraulsenApp/TraulsenApp.iOS/obj/iPhone/Debug/device-builds/iphone9.1-13.3/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetNonCryptographicallySecureRandomBytes
+	/Users/rrod/Projects/TraulsenApp/TraulsenApp.iOS/obj/iPhone/Debug/device-builds/iphone9.1-13.3/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_OpenDir
+	/Users/rrod/Projects/TraulsenApp/TraulsenApp.iOS/obj/iPhone/Debug/device-builds/iphone9.1-13.3/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetReadDirRBufferSize
+	/Users/rrod/Projects/TraulsenApp/TraulsenApp.iOS/obj/iPhone/Debug/device-builds/iphone9.1-13.3/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ReadDirR
+	/Users/rrod/Projects/TraulsenApp/TraulsenApp.iOS/obj/iPhone/Debug/device-builds/iphone9.1-13.3/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_CloseDir
+	/Users/rrod/Projects/TraulsenApp/TraulsenApp.iOS/obj/iPhone/Debug/device-builds/iphone9.1-13.3/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ReadLink
+	/Users/rrod/Projects/TraulsenApp/TraulsenApp.iOS/obj/iPhone/Debug/device-builds/iphone9.1-13.3/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Stat2
+	/Users/rrod/Projects/TraulsenApp/TraulsenApp.iOS/obj/iPhone/Debug/device-builds/iphone9.1-13.3/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_LStat2
+	/Users/rrod/Projects/TraulsenApp/TraulsenApp.iOS/obj/iPhone/Debug/device-builds/iphone9.1-13.3/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Symlink
+	/Users/rrod/Projects/TraulsenApp/TraulsenApp.iOS/obj/iPhone/Debug/device-builds/iphone9.1-13.3/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_CopyFile
+	/Users/rrod/Projects/TraulsenApp/TraulsenApp.iOS/obj/iPhone/Debug/device-builds/iphone9.1-13.3/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetEGid
+	/Users/rrod/Projects/TraulsenApp/TraulsenApp.iOS/obj/iPhone/Debug/device-builds/iphone9.1-13.3/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetEUid
+	/Users/rrod/Projects/TraulsenApp/TraulsenApp.iOS/obj/iPhone/Debug/device-builds/iphone9.1-13.3/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Link
+	/Users/rrod/Projects/TraulsenApp/TraulsenApp.iOS/obj/iPhone/Debug/device-builds/iphone9.1-13.3/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_MkDir
+	/Users/rrod/Projects/TraulsenApp/TraulsenApp.iOS/obj/iPhone/Debug/device-builds/iphone9.1-13.3/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Rename
+	/Users/rrod/Projects/TraulsenApp/TraulsenApp.iOS/obj/iPhone/Debug/device-builds/iphone9.1-13.3/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Unlink
+	/Users/rrod/Projects/TraulsenApp/TraulsenApp.iOS/obj/iPhone/Debug/device-builds/iphone9.1-13.3/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_local_name
+	/Users/rrod/Projects/TraulsenApp/TraulsenApp.iOS/obj/iPhone/Debug/device-builds/iphone9.1-13.3/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_data
+	/Users/rrod/Projects/TraulsenApp/TraulsenApp.iOS/obj/iPhone/Debug/device-builds/iphone9.1-13.3/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/rrod/Projects/TraulsenApp/TraulsenApp.iOS/obj/iPhone/Debug/device-builds/iphone9.1-13.3/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_log
+	/Users/rrod/Projects/TraulsenApp/TraulsenApp.iOS/obj/iPhone/Debug/device-builds/iphone9.1-13.3/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/rrod/Projects/TraulsenApp/TraulsenApp.iOS/obj/iPhone/Debug/device-builds/iphone9.1-13.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_release_block_on_main_thread
+	/Users/rrod/Projects/TraulsenApp/TraulsenApp.iOS/obj/iPhone/Debug/device-builds/iphone9.1-13.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/rrod/Projects/TraulsenApp/TraulsenApp.iOS/obj/iPhone/Debug/device-builds/iphone9.1-13.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr
+	/Users/rrod/Projects/TraulsenApp/TraulsenApp.iOS/obj/iPhone/Debug/device-builds/iphone9.1-13.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr
+	/Users/rrod/Projects/TraulsenApp/TraulsenApp.iOS/obj/iPhone/Debug/device-builds/iphone9.1-13.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/rrod/Projects/TraulsenApp/TraulsenApp.iOS/obj/iPhone/Debug/device-builds/iphone9.1-13.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_start_wwan
+	/Users/rrod/Projects/TraulsenApp/TraulsenApp.iOS/obj/iPhone/Debug/device-builds/iphone9.1-13.3/mtouch-cache/1-Link/System.dll
+Function=mono_pmip

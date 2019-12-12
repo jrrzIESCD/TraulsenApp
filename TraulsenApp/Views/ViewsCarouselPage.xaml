@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<CarouselPage xmlns="http://xamarin.com/schemas/2014/forms"
+              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+              x:Class="TraulsenApp.Views.ViewsCarouselPage"
+              xmlns:carousel="clr-namespace:TraulsenApp.Views"
+              NavigationPage.HasNavigationBar="false">
+    <CarouselPage.Children>
+        <carousel:FirstCarouselPage/>
+        <carousel:SecondCarouselPage/>
+    </CarouselPage.Children>
+</CarouselPage>

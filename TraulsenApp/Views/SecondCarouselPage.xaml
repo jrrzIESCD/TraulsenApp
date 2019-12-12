@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TraulsenApp.Views.SecondCarouselPage"
+             BackgroundColor="#FFC605">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Under Construction" HorizontalOptions="Center" FontSize="Title" Margin="0,40" FontAttributes="Bold"></Label>
+            <Image Source="under_construction" HorizontalOptions="Center" VerticalOptions="Center"></Image>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
